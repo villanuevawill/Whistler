@@ -1,0 +1,26 @@
+{
+  "name": "Whistler",
+  "version": "0.0.0",
+  "authors": [
+    "William Villanueva <wvillanu89@gmail.com>"
+  ],
+  "description": "Whistle a tune and hear it back",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "dsp.js": "*",
+    "jquery": "~2.1.1"
+  }
+}
